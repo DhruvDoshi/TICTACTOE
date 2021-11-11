@@ -21,7 +21,7 @@ here you just need to copy the command line codes which are written down here an
 <ol>
 <li>Install Git<br>
 <li>Install NodeJS (including NPM) on Your Computer<br>
-<li>Open a Terminal/Command Line and then git clone https://github.com/DhruvDoshi/TicTacToe.git<br>
+<li>Open a Terminal/Command Line and then git clone https://github.com/DhruvDoshi/TICTACTOE<br>
 <li>cd blocktactoe<br>
 <li>npm install<br>
 <li>npm install -g truffle<br>
