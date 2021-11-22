@@ -35,7 +35,7 @@ here you just need to copy the command line codes which are written down here an
 
 
 # Note
-If you come across any of the problems while loading the packages and running the javascript files let me mail over ***160770107043@socet.edu.in*** or call over ***9099674284***
+If you come across any of the problems while loading the packages and running the javascript files let me mail over ***160770107043@socet.edu.in***
 
 
 
